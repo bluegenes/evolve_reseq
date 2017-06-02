@@ -1,0 +1,3 @@
+
+
+python equalize_references.py --firstRef SC_to_SC_noBact.fa --out1 SC_to_SC_noBact_eqTCALIFgenome.fa  --secondRef TCALIF_genome_v3.fa --out2 TCALIF_genome_v3_eqSC_to_SC_noBact.fa
