@@ -1,0 +1,1 @@
+python peak_caller_Aug_2017.py --inFile SDxSCN_CMH_out.txt --outFile outTest_august2017.txt
