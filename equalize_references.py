@@ -66,7 +66,7 @@ def equalize_refs(ref1,ref2,o1,o2):
                 bp = bp + line
         if name in ref1Dict.keys():
             ref1contig = ref1Dict[name]
-            equalize_contigs(name, bp, ref1contig, out1, out2)
+            equalize_contigs(name, ref1contig, bp, out1, out2)
     out1.close()
     out2.close()
 
